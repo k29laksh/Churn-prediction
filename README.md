@@ -76,14 +76,3 @@ We trained the dataset using four different machine learning models:
    - Train Accuracy: 78.60%
    - Test Accuracy: 77.57%
 
-## Usage
-
-[Include instructions on how to run the project, install dependencies, etc.]
-
-## Contributing
-
-[Include guidelines for contributing to the project]
-
-## License
-
-[Include license information]
